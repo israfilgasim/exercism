@@ -1,6 +1,6 @@
 # exercism solutions
 
-| Challenge | Language | col3 |
-| --------- | -------- | ---- |
-|           |          |      |
-|           |          |      |
+|  | Challenge | Language |
+| - | --------- | -------- |
+|  |           |          |
+|  |           |          |
