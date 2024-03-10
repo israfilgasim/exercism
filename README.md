@@ -1,5 +1,6 @@
 # exercism solutions
 
+
 |  | Challenge | Language |
 | - | --------- | -------- |
 |  |           |          |
