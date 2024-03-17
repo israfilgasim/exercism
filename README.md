@@ -1,6 +1,6 @@
 # exercism solutions
 
-| Problems |
-| -------- |
-|          |
-|          |
+| Problem Name |
+| ------------ |
+|              |
+|              |
