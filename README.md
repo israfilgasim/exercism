@@ -1,10 +1,8 @@
 # exercism solutions
 
-| Problems                                                     |
-| ------------------------------------------------------------ |
-| [Leap](https://github.com/israfilgasim/exercism/tree/main/leap) |
-|                                                              |
+All Exercism problems in every language
 
-### Updates
-
-*  2024.03.18 Started Python Track
+| Problems                                                             |
+| -------------------------------------------------------------------- |
+| [Leap](https://github.com/israfilgasim/exercism/tree/main/leap)         |
+| [Triangle](https://github.com/israfilgasim/exercism/tree/main/tirangle) |
